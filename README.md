@@ -1,4 +1,4 @@
-# AntiAFK_Minecraft_PE
+# AntiAFK_MinecraftPE
 AntiAFK Minecraft PE was created solely to simplify the game, not to harm other projects, etc. Also, if I’m not mistaken, it seems to be banned in many projects, but I’m not sure, better check yourself whether or not it is banned in your project. In addition, antiafk itself is designed so that it can work not only in Minecraft PE but also in other games.
 
 # AHK Function
